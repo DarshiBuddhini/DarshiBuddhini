@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarshiBuddhini
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning BSc(Hons) in IT at SLIIT
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
