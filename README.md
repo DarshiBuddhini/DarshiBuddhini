@@ -24,7 +24,7 @@
 
 
 - 👋 Hi, I’m Darshi Buddhini
-- 💼 I'm an Undergraduate Student at SLIIT
+- 💼 I'm a software engineering undergraduate Student at SLIIT
 - 💬 Talk to me about freelancing opportunities in software engineering
 - 👯 I’m looking to collaborate on frontend & backend software engineering projects,web development projects
 
